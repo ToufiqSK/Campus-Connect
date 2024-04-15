@@ -14,7 +14,7 @@ app.use("/api", userRoute);
 app.use("/home", (req, res) => {
     res.json(
         {
-            message: "nuh uh"
+            message: "nuh uhh"
         }
     )
 }
