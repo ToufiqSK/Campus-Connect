@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar {
+  display: flex;
+  height: 75px;
+  background-color: white;
+  /* Other styles as needed */
+}
+
+.menu {
+  flex: 1;
+}
+
+/* Other styles for your menu items, logo, etc. */
